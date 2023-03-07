@@ -1,9 +1,10 @@
 import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
-    name: 'Jane Doe',
-    title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-    image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
+    name: 'Ace Stewart',
+    title: "Full-Stack and BlockChain Developer",
+    desciption:"Creating digital experiences that are as smooth as butter and as secure as a vault with full-stack and blockchain magic. Let's build something buttery and secure together!",
+    image: 'https://avatars.githubusercontent.com/u/126170253?v=4',
+    // image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/my.png',
     resumePdf: resume
 }

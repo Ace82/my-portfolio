@@ -6,76 +6,110 @@ import { FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, F
 
  
 
-export const servicesData = [
-    // {
-    //     id: 1,
-    //     title: 'Marketing',
-    //     icon: <BiShoppingBag/>
-    // },
-    {
-        id: 2,
-        title: 'Content Writing',
-        icon: <BiPencil /> 
-    },
-    {
-        id: 3,
-        title: 'Email Marketing',
-        icon: <AiOutlineMail />
-    },
-    // {
-    //     id: 4,
-    //     title: 'Internet Research',
-    //     icon: <FaInternetExplorer />
-    // },
-    // {
-    //     id: 5,
-    //     title: 'Tutoring',
-    //     icon: <FaChalkboardTeacher />
-    // },
+// export const servicesData = [
+//     // {
+//     //     id: 1,
+//     //     title: 'Marketing',
+//     //     icon: <BiShoppingBag/>
+//     // },
+//     {
+//         id: 2,
+//         title: 'Content Writing',
+//         icon: <BiPencil /> 
+//     },
+//     // {
+//     //     id: 3,
+//     //     title: 'Email Marketing',
+//     //     icon: <AiOutlineMail />
+//     // },
+//     {
+//         id: 4,
+//         title: 'Internet Research',
+//         icon: <FaInternetExplorer />
+//     },
+//     {
+//         id: 5,
+//         title: 'Tutoring',
+//         icon: <FaChalkboardTeacher />
+//     },
 
+//     {
+//         id: 6,
+//         title: 'FrontEnd Development',
+//         icon: <FaPinterest />
+//     },
+//     // {
+//     //     id: 7,
+//     //     title: 'Photography',
+//     //     icon: <FaCameraRetro />
+//     // },
+//     {
+//         id: 8,
+//         title: 'BackEnd Development',
+//         icon: <BsCodeSlash />
+//     }, 
+//     // {
+//     //     id: 9,
+//     //     title: 'Video Editing',
+//     //     icon: <FaVideo />
+//     // },
+//     {
+//         id: 10,
+//         title: 'DataBase Design', 
+//         icon: <BsClipboardData />
+//     },
+//     {
+//         id: 11,
+//         title: 'Ebook Writing',
+//         icon: <FaTabletAlt />
+//     },
+//     {
+//         id: 12,
+//         title: 'Audio Transcription',
+//         icon: <AiFillAudio />
+//     },
+//     // {
+//     //     id: 13,
+//     //     title: 'Blog Posting',
+//     //     icon: <FaRegNewspaper />
+//     // },
+
+// ]
+export const servicesData = [
     {
-        id: 6,
-        title: 'Web Design',
-        icon: <BsCodeSlash />
-    },
-    {
-        id: 7,
-        title: 'Photography',
-        icon: <FaCameraRetro />
-    },
-    // {
-    //     id: 8,
-    //     title: 'Pinterest Virtual Assistant',
-    //     icon: <FaPinterest />
-    // }, 
-    {
-        id: 9,
-        title: 'Video Editing',
-        icon: <FaVideo />
-    },
-    // {
-    //     id: 10,
-    //     title: 'Data Entry', 
-    //     icon: <BsClipboardData />
-    // },
-    {
-        id: 11,
-        title: 'Ebook Writing',
+        id: 1,
+        title: 'BlockChain Development',
         icon: <FaTabletAlt />
     },
-    // {
-    //     id: 12,
-    //     title: 'Audio Transcription',
-    //     icon: <AiFillAudio />
-    // },
     {
-        id: 13,
-        title: 'Blog Posting',
-        icon: <FaRegNewspaper />
+        id: 2,
+        title: 'FrontEnd Development',
+        icon: <FaPinterest />
     },
-
+    
+    {
+        id: 3,
+        title: 'BackEnd Development',
+        icon: <BsCodeSlash />
+    }, 
+    {
+        id: 4,
+        title: 'DataBase Design', 
+        icon: <BsClipboardData />
+    },
+    {
+        id: 5,
+        title: 'Internet Research',
+        icon: <FaInternetExplorer />
+    },
+    {
+        id: 6,
+        title: 'Tutoring',
+        icon: <FaChalkboardTeacher />
+    }
 ]
 
+
 // Uncomment your required service.
-// Couldn't find the required services? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
+// Couldn't find the required services? Raise an issue on github at https://github.com/Ace82/my-portfolio.git/issues/new
 // You can also add on your own 😉.
